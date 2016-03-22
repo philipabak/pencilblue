@@ -1,0 +1,595 @@
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:05:55.054Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-09-29T20:05:57.112Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:05:57.891Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:06:50.888Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-09-29T20:06:51.701Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:06:52.600Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:07:00.198Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:07:54.633Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:08:02.241Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:08:56.708Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:09:04.675Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:09:58.962Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:10:06.790Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:11:01.174Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:11:09.209Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:12:03.482Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:12:11.816Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:13:03.646Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-09-29T20:13:04.503Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:13:05.304Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:13:13.994Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:14:07.448Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:14:16.251Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:15:09.792Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:15:19.080Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:16:21.244Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:17:22.942Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:30:11.317Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-09-29T20:30:14.188Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:30:14.700Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:31:16.328Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:32:17.822Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:33:19.265Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:34:20.786Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:35:22.262Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:36:23.833Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:37:25.340Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:38:26.793Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:39:28.229Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:40:29.702Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:41:31.219Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:42:32.700Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:43:34.302Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:44:35.723Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:45:37.173Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:46:38.602Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:47:40.073Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:48:41.521Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:49:42.935Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:50:44.389Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:51:45.804Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:52:47.242Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:53:48.657Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:54:50.071Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:55:51.557Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:56:53.023Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:57:54.452Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:58:55.898Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T20:59:57.337Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T21:00:58.826Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T21:02:00.287Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T21:03:01.721Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T21:04:03.203Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T21:05:04.719Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T21:06:06.223Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T21:07:07.692Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T21:08:09.167Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T21:09:10.640Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T21:10:12.304Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T21:11:13.765Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T21:12:15.265Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T21:13:16.894Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T21:14:18.421Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T21:15:20.034Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T21:16:21.441Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T21:17:22.876Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T21:18:24.336Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T21:19:25.744Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T21:20:27.242Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T21:21:28.738Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T21:22:30.234Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T21:23:31.715Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T21:24:33.242Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T22:44:26.511Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T22:45:28.354Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T22:45:59.336Z"}
+{"level":"info","message":"PencilBlue: pencilblue running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-09-29T22:46:00.086Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-09-29T22:46:00.220Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2015-09-29T22:46:21.412Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2015-09-29T22:46:21.492Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2015-09-29T22:50:11.243Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:03:29.300Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-09-29T23:03:29.918Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:03:30.530Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:04:32.149Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:04:33.084Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:04:33.985Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:04:34.851Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:04:35.766Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:04:36.641Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:04:37.532Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:04:38.374Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:04:39.272Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:04:40.204Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:04:41.130Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:04:42.063Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:04:42.945Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:04:43.941Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:04:44.857Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:04:45.794Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:04:46.749Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:04:47.662Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:04:48.646Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:04:49.687Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:04:50.689Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:04:51.571Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:04:52.470Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:04:53.369Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:04:54.395Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:04:55.282Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:04:56.302Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:04:57.194Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:04:58.107Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:04:59.153Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:00.349Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:01.255Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:02.137Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:03.035Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:04.061Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:04.933Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:06.146Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:06.983Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:08.069Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:09.151Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:10.271Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:11.425Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:12.484Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:13.422Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:14.372Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:15.311Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:16.351Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:17.370Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:18.337Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:19.237Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:20.136Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:21.037Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:21.967Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:22.904Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:23.804Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:24.713Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:25.625Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:26.467Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:27.353Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:28.277Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:29.216Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:30.130Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:31.005Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:31.896Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:32.781Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:33.612Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:34.517Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:35.408Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:36.318Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:37.258Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:38.166Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:39.095Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:40.067Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:40.966Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:41.985Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:42.876Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:43.800Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:44.724Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:45.628Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:46.526Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:47.427Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:48.340Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:49.240Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:50.140Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:05:51.047Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:05:51.942Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:06:00.309Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-09-29T23:06:00.903Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:06:01.508Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:03.170Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:04.040Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:04.905Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:05.799Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:06.692Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:07.625Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:08.467Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:09.336Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:10.191Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:11.025Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:11.868Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:12.743Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:13.640Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:14.472Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:15.345Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:16.258Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:17.092Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:17.975Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:18.882Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:19.732Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:20.654Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:21.484Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:22.356Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:23.246Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:24.110Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:24.984Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:25.889Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:26.753Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:27.626Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:28.519Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:29.387Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:30.240Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:31.113Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:31.936Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:32.817Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:33.664Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:34.558Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:35.382Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:36.264Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:37.170Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:38.069Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:38.926Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:39.819Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:40.690Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:41.544Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:42.384Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:43.387Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:44.274Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:45.163Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:46.099Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:47.200Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:48.230Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:49.214Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:50.449Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:51.431Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:52.346Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:53.229Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:54.163Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:55.184Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:56.187Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:57.087Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:58.047Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:07:59.077Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:07:59.980Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:00.831Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:01.778Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:02.723Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:03.599Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:04.484Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:05.434Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:06.429Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:07.309Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:08.231Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:09.114Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:10.189Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:11.099Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:11.943Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:13.019Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:14.022Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:15.017Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:16.021Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:16.998Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:17.970Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:18.934Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:19.821Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:20.934Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:21.801Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:22.892Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:23.761Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:24.660Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:25.527Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:26.549Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:27.521Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:28.489Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:29.618Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:30.530Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:31.426Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:32.360Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:33.244Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:34.154Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:35.048Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:36.045Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:36.988Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:37.980Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:38.897Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:39.843Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:40.742Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:41.610Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:42.454Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:43.313Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:44.150Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:45.004Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:45.863Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:46.774Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:47.672Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:48.523Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:49.411Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:50.282Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:51.145Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:51.990Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:52.842Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:53.671Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:54.536Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:55.327Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:56.232Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:57.072Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:57.909Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:08:58.776Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:08:59.785Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:00.647Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:01.522Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:02.336Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:03.216Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:04.049Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:04.893Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:05.787Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:06.657Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:07.536Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:08.421Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:09.257Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:10.079Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:10.928Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:11.769Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:12.662Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:13.519Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:14.354Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:15.243Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:16.105Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:17.073Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:18.064Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:19.004Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:19.821Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:20.749Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:21.573Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:22.455Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:23.395Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:24.283Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:25.126Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:26.010Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:26.865Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:27.728Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:28.551Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:29.433Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:30.318Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:31.172Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:32.032Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:32.902Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:33.790Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:34.623Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:35.486Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:36.455Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:37.306Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:38.146Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:38.971Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:39.840Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:40.685Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:41.522Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:42.362Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:43.197Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:44.077Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:44.932Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:45.767Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:46.769Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:47.681Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:48.573Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:49.518Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:50.464Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:51.359Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:52.284Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:53.194Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:54.081Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:55.024Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:56.047Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:56.958Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:57.843Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:09:58.784Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:09:59.724Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:10:00.649Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:10:01.502Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:10:02.422Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:10:03.318Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:10:04.203Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:10:05.114Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:10:06.036Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:10:06.951Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:10:07.922Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:10:08.884Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:10:09.848Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:10:10.998Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:10:12.109Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:10:13.064Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:10:14.040Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:10:14.955Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:10:15.822Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:10:16.689Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:11:18.385Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:11:19.299Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:11:20.195Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:11:21.024Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:11:21.908Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:11:22.758Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:11:23.616Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:11:24.512Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:11:25.389Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:11:26.304Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:11:27.175Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:11:28.062Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:11:28.994Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:11:29.884Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:11:30.766Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:11:31.685Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:11:32.587Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:11:33.517Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:11:34.435Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:11:35.257Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:11:36.176Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:11:37.095Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:11:37.990Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:11:38.840Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:11:39.742Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:11:40.608Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:11:47.856Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-09-29T23:11:48.460Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:11:49.070Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:11:49.904Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:11:50.759Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:11:51.568Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:11:52.381Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:11:53.217Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:11:54.027Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:11:54.809Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:11:55.662Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:11:56.415Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:11:57.258Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:11:58.013Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:11:58.863Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:11:59.693Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:00.493Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:12:01.311Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:02.115Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:12:02.921Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:03.780Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:12:04.569Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:05.458Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:12:06.261Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:07.097Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:12:07.922Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:08.736Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:12:09.515Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:10.332Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:12:11.140Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:12.019Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:12:12.851Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:13.689Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:12:14.505Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:15.354Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:12:16.151Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:16.988Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:12:17.752Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:18.553Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:12:19.367Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:20.217Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:12:21.008Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:21.839Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:12:22.625Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:23.458Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:12:24.321Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:25.168Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:12:26.025Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:26.838Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:12:27.716Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:28.573Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:12:29.428Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:30.322Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:12:31.180Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:32.037Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:12:32.872Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:33.728Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:12:34.624Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:35.452Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:12:36.285Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:37.174Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:12:38.000Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:38.827Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:12:39.688Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:40.683Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:48.493Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-09-29T23:12:49.087Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:12:49.666Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:13:51.338Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:14:22.404Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:14:23.757Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:14:24.810Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:14:25.732Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:14:26.645Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:14:27.577Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:14:28.365Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:14:29.658Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:14:30.604Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:14:31.615Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:14:32.698Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:14:33.684Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:14:34.592Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:14:35.494Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:14:36.365Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:14:37.259Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:14:38.131Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:14:39.062Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:14:39.973Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:14:40.844Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:14:41.711Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:14:42.606Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:14:43.493Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:14:44.379Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:14:45.252Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:14:46.150Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:14:46.984Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:17:22.707Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-09-29T23:17:23.307Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:17:23.998Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:17:24.850Z"}
+{"level":"info","message":"PencilBlue: pencilblue running at site root [http://localhost:8080] on port [3000]","timestamp":"2015-09-29T23:17:25.400Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-09-29T23:17:25.537Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2015-09-29T23:17:34.080Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2015-09-29T23:17:34.124Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2015-09-29T23:19:40.587Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2015-09-29T23:20:39.376Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2015-09-29T23:20:39.431Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:24:33.269Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-09-29T23:24:34.628Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:24:35.232Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:24:36.114Z"}
+{"level":"info","message":"PencilBlue: pencilblue running at site root [http://localhost:8080] on port [3000]","timestamp":"2015-09-29T23:24:36.175Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-09-29T23:24:36.298Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2015-09-29T23:24:41.082Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2015-09-29T23:24:41.131Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2015-09-29T23:26:13.041Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:26:31.685Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-09-29T23:26:32.352Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-29T23:26:32.983Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-29T23:26:33.931Z"}
+{"level":"info","message":"PencilBlue: pencilblue running at site root [http://localhost:3000] on port [3000]","timestamp":"2015-09-29T23:26:33.990Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-09-29T23:26:34.126Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2015-09-29T23:26:38.877Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2015-09-29T23:26:38.940Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2015-09-29T23:26:50.667Z"}
+{"level":"warn","message":"PencilBlue: pb.users is deprecated.  Use new pb.UserService(context) instead","timestamp":"2015-09-29T23:31:49.111Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-09-30T00:07:17.694Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-09-30T00:07:18.009Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-09-30T00:07:18.041Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-09-30T00:07:18.215Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-09-30T00:07:18.220Z"}
+{"level":"info","message":"PluginService: Initialized plugin Portfolio Theme (portfolio). RESULT=[true]","timestamp":"2015-09-30T00:07:18.249Z"}
+{"level":"info","message":"Removed temporary file: C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\upload_7aa6c549949245398a6be373e335d60f","timestamp":"2015-09-30T00:08:45.279Z"}
+{"level":"info","message":"Removed temporary file: C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\upload_7e7eb109be75105ffa8acda8f09ed531","timestamp":"2015-09-30T00:09:02.775Z"}
+{"level":"info","message":"Removed temporary file: C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\upload_ccd5f634a5ece5d5c8f2dbae8234e97b","timestamp":"2015-09-30T00:09:39.619Z"}
+{"level":"warn","message":"PencilBlue: pb.users is deprecated.  Use new pb.UserService(context) instead","timestamp":"2015-09-30T00:12:38.130Z"}
+{"level":"warn","message":"PencilBlue: pb.users is deprecated.  Use new pb.UserService(context) instead","timestamp":"2015-09-30T00:12:43.548Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-30T23:00:59.351Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-09-30T23:01:00.946Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-30T23:01:01.593Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-30T23:01:02.626Z"}
+{"level":"info","message":"PencilBlue: pencilblue running at site root [http://localhost:3000] on port [3000]","timestamp":"2015-09-30T23:01:02.897Z"}
+{"level":"info","message":"PluginService: Initialized plugin Portfolio Theme (portfolio). RESULT=[true]","timestamp":"2015-09-30T23:01:02.968Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-09-30T23:01:03.107Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-30T23:07:47.352Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-09-30T23:07:47.828Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-30T23:07:48.291Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-30T23:07:48.944Z"}
+{"level":"info","message":"PencilBlue: pencilblue running at site root [http://localhost:3000] on port [3000]","timestamp":"2015-09-30T23:07:48.984Z"}
+{"level":"info","message":"PluginService: Initialized plugin Portfolio Theme (portfolio). RESULT=[true]","timestamp":"2015-09-30T23:07:49.017Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-09-30T23:07:49.164Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-30T23:09:12.610Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-09-30T23:09:13.173Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-09-30T23:09:13.628Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-09-30T23:09:14.266Z"}
+{"level":"info","message":"PencilBlue: My PencilBlue Site running at site root [http://127.0.0.1:8080] on port [8080]","timestamp":"2015-09-30T23:09:14.974Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-09-30T23:09:15.122Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2015-09-30T23:09:18.274Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2015-09-30T23:09:18.301Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2015-09-30T23:09:40.340Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2015-09-30T23:09:40.419Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2015-09-30T23:09:53.968Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-10-01T11:29:08.964Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-10-01T11:29:09.449Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-10-01T11:29:09.895Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-10-01T11:29:10.586Z"}
+{"level":"info","message":"PencilBlue: My PencilBlue Site running at site root [http://127.0.0.1:8080] on port [8080]","timestamp":"2015-10-01T11:29:10.627Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-10-01T11:29:10.802Z"}
+{"level":"warn","message":"PencilBlue: pb.users is deprecated.  Use new pb.UserService(context) instead","timestamp":"2015-10-01T12:12:38.858Z"}
+{"level":"warn","message":"PencilBlue: pb.users is deprecated.  Use new pb.UserService(context) instead","timestamp":"2015-10-01T12:12:46.333Z"}
+{"level":"warn","message":"PencilBlue: pb.users is deprecated.  Use new pb.UserService(context) instead","timestamp":"2015-10-01T12:13:41.126Z"}
